@@ -1,0 +1,12 @@
+{
+  "export_job_id": "1f98b810-68e5-480c-9308-978ab4bca240",
+  "id_short": 420291,
+  "published_at": "2026-04-12T19:06:19Z",
+  "repo_name": "all-restaurants-in-oakland-california-us-sample-420291",
+  "sample_asset_name": "beamstation_420291_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/420291/beamstation_420291_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 124,
+  "sample_sha256": "06d967e64c056a14c3316354508c6ca2328ead01709d3e961471c62508ed01f6",
+  "sample_size_bytes": 465247,
+  "total_records": 1246
+}
