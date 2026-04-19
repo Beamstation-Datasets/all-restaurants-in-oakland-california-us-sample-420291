@@ -1,6 +1,6 @@
 # All Restaurants in Oakland, California, US
 
-> Free BeamStation sample export with 124 rows and masked direct-contact fields.
+> Free BeamStation sample export with 120 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `420291` |
 | Location | Oakland |
 | Category | Restaurants |
-| Full dataset size | 1,246 records |
-| Free sample size | 124 records (9.95%) |
-| Last export | 2026-04-09T14:21:11.844928+00:00 |
+| Full dataset size | 1,204 records |
+| Free sample size | 120 records (9.97%) |
+| Last export | 2026-04-16T15:23:48.890097+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-oakland-california-us-sample-420291/releases/download/sample-latest/beamstation_420291_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
